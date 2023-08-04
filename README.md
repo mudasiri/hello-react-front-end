@@ -77,7 +77,7 @@ In order to run this project you need to have the following in local computer:
 Clone this repository to your desired folder:
 
 - [ ] Open terminal
-- [ ] git clone the backend: https://github.com/mudasiri/hello-rails-back-end.git
+- [ ] git clone the backend: https://github.com/mudasiri/hello-react-back-end.git
 - [ ] git clone the frontend: https://github.com/mudasiri/hello-react-front-end.git
 - [ ] cd budget-app
   
